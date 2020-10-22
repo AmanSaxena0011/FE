@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69308" started-at="2020-10-22T07:42:30Z" finished-at="2020-10-22T07:43:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69308" started-at="2020-10-22T07:42:30Z" finished-at="2020-10-22T07:43:39Z">
+      <class name="com.qa.shop.test.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.shop.test.HomePageTest@184497d1]" name="setup" is-config="true" duration-ms="14666" started-at="2020-10-22T07:42:30Z" finished-at="2020-10-22T07:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyOrder()[pri:1, instance:com.qa.shop.test.HomePageTest@184497d1]" name="verifyOrder" duration-ms="54352" started-at="2020-10-22T07:42:44Z" finished-at="2020-10-22T07:43:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrder -->
+      </class> <!-- com.qa.shop.test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
